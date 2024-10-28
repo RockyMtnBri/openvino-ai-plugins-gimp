@@ -13,7 +13,7 @@
   - 16GB system memory as minimum requirement
   - internet connection is required for installation
 - Driver:
-  - Intel NPU driver: Use the most recent driver you have available. 
+  - Intel NPU driver: Use the most recent driver you have available - this has been updated as of 10/11/24 and is REQUIRED to install the NPU plug-ins. Your installs will fail if you do not update the Intel NPU driver. Link here: https://www.intel.com/content/www/us/en/download/794734/intel-npu-driver-windows.html
 - Software and Package:
   - git
   - python 3.9-3.12
